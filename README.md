@@ -1,4 +1,3 @@
-# Std_Database
 Modern handheld devices such as smartphones have become increasingly powerful in recent years.
 As mobile devices become more like PCs they will come to replace objects we tend to carry around such as checkbooks, credit cards, cameras, planners, mp3 players, etc. 
 We will be using them to accomplish our daily tasks. One application that falls into this category is to store data. Current database storage often offers decryption of data but few have been applied to online commerce.
